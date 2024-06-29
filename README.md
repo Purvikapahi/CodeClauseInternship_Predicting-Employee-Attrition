@@ -17,4 +17,4 @@ Achieved good accuracy on the 'employee_attrition_kaggle' dataset from Kaggle,us
 Dataset : Downloaded from kaggle website and attached above also. 
 
 Purpose: The purpose of this project was to develop a model to predict the likelihood of employee attrition in a company.
-Technologies Used: The project makes heavy use of Python, Pandas, Matplotlib, Scikit-Learn, numpy and Seaborn libraries to visualize patterns, distributions and relationships in the Iris Dataset
+Technologies Used: The project makes heavy use of Python, Pandas, Matplotlib, Scikit-Learn, numpy and Seaborn libraries to visualize patterns, distributions and relationships in the Employee Attrition dataset.
